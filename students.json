@@ -1,0 +1,3282 @@
+[
+  {
+    "student_name": "Gholap Komal Gajanan",
+    "prn": "2025016100653636",
+    "dob": "1996-09-05",
+    "name": "Komal",
+    "mother_name": "Smita",
+    "mobile_number": "9456646546",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Kadam Rupali Ghanshyam",
+    "prn": "2025016100653644",
+    "dob": "1991-09-09",
+    "name": "Rupali",
+    "mother_name": "Kuntabai",
+    "mobile_number": "9637004992",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Chanchal Vitthal",
+    "prn": "2025016100653652",
+    "dob": "2007-05-03",
+    "name": "Chanchal",
+    "mother_name": "Shila",
+    "mobile_number": "9464646456",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gade Kalyani Dnyaneshwar",
+    "prn": "2025016100653667",
+    "dob": "1995-10-21",
+    "name": "Kalyani",
+    "mother_name": "Sadhana",
+    "mobile_number": "9564564564",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mokalkar Bhavana Prakash",
+    "prn": "2025016100653675",
+    "dob": "2000-04-24",
+    "name": "Bhavana",
+    "mother_name": "Vandana",
+    "mobile_number": "9403131231",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Nimbekar Siddhi Devidas",
+    "prn": "2025016100653683",
+    "dob": "2003-05-28",
+    "name": "Siddhi",
+    "mother_name": "Suchita",
+    "mobile_number": "9456132435",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Date Neha Rajesh",
+    "prn": "2025016100653691",
+    "dob": "2002-09-06",
+    "name": "Neha",
+    "mother_name": "Rekha",
+    "mobile_number": "9422010561",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gawhane Neha Haridas",
+    "prn": "2025016100653702",
+    "dob": "2007-09-03",
+    "name": "Neha",
+    "mother_name": "Aparna",
+    "mobile_number": "9021617969",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhongade Vaishali Suresh",
+    "prn": "2025016100653717",
+    "dob": "1995-06-06",
+    "name": "Vaishali",
+    "mother_name": "Sushila",
+    "mobile_number": "9464645646",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rajguru Nisha Pandurang",
+    "prn": "2025016100653725",
+    "dob": "1998-09-29",
+    "name": "Nisha",
+    "mother_name": "Pushpa",
+    "mobile_number": "9246116161",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Kolaskar Alka Raju",
+    "prn": "2025016100653733",
+    "dob": "1995-04-01",
+    "name": "Alka",
+    "mother_name": "Panchpula",
+    "mobile_number": "8552872228",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Saloni Sanjay",
+    "prn": "2025016100653741",
+    "dob": "2007-09-10",
+    "name": "Saloni",
+    "mother_name": "Lata",
+    "mobile_number": "9546465464",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Jamode Jaya Vyasmuni",
+    "prn": "2025016100653756",
+    "dob": "1996-07-24",
+    "name": "Jaya",
+    "mother_name": "Nirmala",
+    "mobile_number": "9465465465",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dande Manisha Haridas",
+    "prn": "2025016100653764",
+    "dob": "1998-04-15",
+    "name": "Manisha",
+    "mother_name": "Vanmala",
+    "mobile_number": "7875001908",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhote Shraddha Akaram",
+    "prn": "2025016100653772",
+    "dob": "1995-05-12",
+    "name": "Shraddha",
+    "mother_name": "Shakuntala",
+    "mobile_number": "7020311606",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Khodke Dipali Rameshwar",
+    "prn": "2025016100653787",
+    "dob": "2001-05-18",
+    "name": "Dipali",
+    "mother_name": "Surekha",
+    "mobile_number": "7487478574",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Devkate Durga Haribhau",
+    "prn": "2025016100653795",
+    "dob": "2000-09-27",
+    "name": "Durga",
+    "mother_name": "Prabha",
+    "mobile_number": "7485963252",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Manekar Megha Gajanan",
+    "prn": "2025016100653806",
+    "dob": "1996-07-20",
+    "name": "Megha",
+    "mother_name": "Sunita",
+    "mobile_number": "9446456464",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chavhan Anju Vinod",
+    "prn": "2025016100653892",
+    "dob": "2005-02-06",
+    "name": "Anju",
+    "mother_name": "Pushpa",
+    "mobile_number": "9422105123",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ingale Sandhya Vinod",
+    "prn": "2025016100653903",
+    "dob": "1999-09-23",
+    "name": "Sandhya",
+    "mother_name": "Nanda",
+    "mobile_number": "9021054265",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chavhan Priti Santosh",
+    "prn": "2025016100653911",
+    "dob": "2003-08-15",
+    "name": "Priti",
+    "mother_name": "Babita",
+    "mobile_number": "9564564646",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thakur Sakshi Rajendrasing",
+    "prn": "2025016100653926",
+    "dob": "2003-04-07",
+    "name": "Sakshi",
+    "mother_name": "Santoshi",
+    "mobile_number": "9689594869",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Muthal Archana Baban",
+    "prn": "2025016100653934",
+    "dob": "1993-05-07",
+    "name": "Archana",
+    "mother_name": "Bebi",
+    "mobile_number": "8010578401",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhoke Kalayani Ganesh",
+    "prn": "2025016100653942",
+    "dob": "2002-01-01",
+    "name": "Kalyani",
+    "mother_name": "Kiran",
+    "mobile_number": "7485968748",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Waghmare Arati Shankar",
+    "prn": "2025016100654052",
+    "dob": "1996-01-01",
+    "name": "Arati",
+    "mother_name": "Savita",
+    "mobile_number": "9456456465",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Pole Kiran Digambar",
+    "prn": "2025016100654067",
+    "dob": "2002-08-19",
+    "name": "Kiran",
+    "mother_name": "Dhurpata",
+    "mobile_number": "9858745896",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ghodake Monika Machchhindra",
+    "prn": "2025016100654172",
+    "dob": "2004-03-09",
+    "name": "Monika",
+    "mother_name": "Jyoti",
+    "mobile_number": "9455212312",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Raut Sakshi Maroti",
+    "prn": "2025016100654187",
+    "dob": "2004-06-09",
+    "name": "Sakshi",
+    "mother_name": "Varsha",
+    "mobile_number": "9454605200",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Javane Rani Mennath",
+    "prn": "2025016100654195",
+    "dob": "2005-06-25",
+    "name": "Rani",
+    "mother_name": "Ranjanabaai",
+    "mobile_number": "9654564564",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Holopkar Komal Vinod",
+    "prn": "2025016100654222",
+    "dob": "2000-09-08",
+    "name": "Komal",
+    "mother_name": "Chanda",
+    "mobile_number": "9412345645",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhakulakar Suwarna Raju",
+    "prn": "2025016100654841",
+    "dob": "1997-03-23",
+    "name": "Suwarna",
+    "mother_name": "Pratibha",
+    "mobile_number": "7489657458",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chatur Priyanka Ashokrao",
+    "prn": "2025016100656317",
+    "dob": "1995-07-06",
+    "name": "Priyanka",
+    "mother_name": "Kalpna",
+    "mobile_number": "9552048214",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Jichkar Rupali Ramesh",
+    "prn": "2025016100656333",
+    "dob": "1999-08-16",
+    "name": "Rupali",
+    "mother_name": "Sandya",
+    "mobile_number": "9023156112",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thombre Swati Sunil",
+    "prn": "2025016100656341",
+    "dob": "1997-12-14",
+    "name": "Swati",
+    "mother_name": "Maya",
+    "mobile_number": "9456123456",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhad Pranita Gajanan",
+    "prn": "2025016100656735",
+    "dob": "2000-03-20",
+    "name": "Pranita",
+    "mother_name": "Savita",
+    "mobile_number": "9464654654",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mandavgade Dipawali Shalikram",
+    "prn": "2025016100657665",
+    "dob": "1991-02-17",
+    "name": "Dipawali",
+    "mother_name": "Rekha",
+    "mobile_number": "7485965241",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhagat Sonal Kailas",
+    "prn": "2025016100665491",
+    "dob": "2002-01-12",
+    "name": "Sonal",
+    "mother_name": "Babita",
+    "mobile_number": "9172452843",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Sohale Sneha Narendra",
+    "prn": "2025016100665653",
+    "dob": "1992-02-19",
+    "name": "Sneha",
+    "mother_name": "Kalpana",
+    "mobile_number": "9890951026",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Raut Akshada Dattatray",
+    "prn": "2025016100669844",
+    "dob": "2001-10-07",
+    "name": "Akshada",
+    "mother_name": "Chhabutai",
+    "mobile_number": "9524545644",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhagat Sapana Kisan",
+    "prn": "2025016100669852",
+    "dob": "1999-04-27",
+    "name": "Sapana",
+    "mother_name": "Sapana",
+    "mobile_number": "7482365241",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Wankhade Ashwini Gajanan",
+    "prn": "2025016100777292",
+    "dob": "1995-10-12",
+    "name": "Ashwini",
+    "mother_name": "Shobha",
+    "mobile_number": "9356727314",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhad Komal Gajanan",
+    "prn": "2025016100777311",
+    "dob": "1995-06-02",
+    "name": "Komal",
+    "mother_name": "Savita",
+    "mobile_number": "9456464641",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mohod Nikita Gajanan",
+    "prn": "2025016100777342",
+    "dob": "1997-09-20",
+    "name": "Nikita",
+    "mother_name": "Chanda",
+    "mobile_number": "9456794564",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Raut Anuradha Vinod",
+    "prn": "2025016100777396",
+    "dob": "2006-07-30",
+    "name": "Anuradha",
+    "mother_name": "Archana",
+    "mobile_number": "9373035754",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Manwar Amrapali Sanjay",
+    "prn": "2025016100777407",
+    "dob": "1995-06-20",
+    "name": "Amrapali",
+    "mother_name": "Kantabai",
+    "mobile_number": "7020881095",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Khade Shital Himmat",
+    "prn": "2025016100777415",
+    "dob": "2001-01-01",
+    "name": "Shital",
+    "mother_name": "Sangita",
+    "mobile_number": "9455642132",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Jawke Ashwini Gajanan",
+    "prn": "2025016100777446",
+    "dob": "1994-04-14",
+    "name": "Ashwini",
+    "mother_name": "Mangla",
+    "mobile_number": "9564646465",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhagat Sneha Kisan",
+    "prn": "2025016100777462",
+    "dob": "2003-12-28",
+    "name": "Sneha",
+    "mother_name": "Rama",
+    "mobile_number": "7463254153",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Wadhankar Vaishnavi Gulabrao",
+    "prn": "2025016100778875",
+    "dob": "2003-09-27",
+    "name": "Vaishnavi",
+    "mother_name": "Nitu",
+    "mobile_number": "8766614628",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thak Nikita Madhukar",
+    "prn": "2025016100778925",
+    "dob": "1997-08-29",
+    "name": "Nikita",
+    "mother_name": "Sharda",
+    "mobile_number": "9756464645",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dukare Pallavi Damodar",
+    "prn": "2025016100779004",
+    "dob": "2005-03-25",
+    "name": "Pallavi",
+    "mother_name": "Nanda",
+    "mobile_number": "8390060436",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chopade Prachi Narayan",
+    "prn": "2025016100779012",
+    "dob": "2005-02-10",
+    "name": "Prachi",
+    "mother_name": "Renuka",
+    "mobile_number": "9422511050",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ingale Puja Babarao",
+    "prn": "2025016100779027",
+    "dob": "1997-08-26",
+    "name": "Puja",
+    "mother_name": "Nita",
+    "mobile_number": "9456416546",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Darshana Vishnu",
+    "prn": "2025016100779035",
+    "dob": "2007-01-02",
+    "name": "Darshana",
+    "mother_name": "Babita",
+    "mobile_number": "9423123120",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bangale Rani Digambar",
+    "prn": "2025016100779066",
+    "dob": "2001-05-14",
+    "name": "Rani",
+    "mother_name": "Sunita",
+    "mobile_number": "9456465464",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Upadhye Mukta Sandip",
+    "prn": "2025016100779832",
+    "dob": "2004-10-29",
+    "name": "Mukta",
+    "mother_name": "Archana",
+    "mobile_number": "9456464654",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ekade Chhaya Ramdas",
+    "prn": "2025016100779847",
+    "dob": "1996-10-07",
+    "name": "Chhaya",
+    "mother_name": "Sajanbai",
+    "mobile_number": "9452121322",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Raut Renuka Sanjay",
+    "prn": "2025016100779855",
+    "dob": "2002-06-11",
+    "name": "Renuka",
+    "mother_name": "Geeta",
+    "mobile_number": "9432213131",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Sapna Narayan",
+    "prn": "2025016100789873",
+    "dob": "1999-06-15",
+    "name": "Sapna",
+    "mother_name": "Seema",
+    "mobile_number": "9452415012",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Budhe Ankita Sunil",
+    "prn": "2025016100791284",
+    "dob": "1999-08-19",
+    "name": "Ankita",
+    "mother_name": "Madhuri",
+    "mobile_number": "9456464646",
+    "course_code": "BAFD2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Kendre Saraswati Laxman",
+    "prn": "2025016100653192",
+    "dob": "2007-09-16",
+    "name": "Saraswati",
+    "mother_name": "Anita",
+    "mobile_number": "9657221069",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Kaithwas Pragati Shankar",
+    "prn": "2025016100653203",
+    "dob": "2007-09-14",
+    "name": "Pragati",
+    "mother_name": "Anita",
+    "mobile_number": "9322125014",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chikaram Disha Sanjay",
+    "prn": "2025016100653211",
+    "dob": "2005-09-01",
+    "name": "Disha",
+    "mother_name": "Maya",
+    "mobile_number": "9226529539",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thakare Sakshi Gajanan",
+    "prn": "2025016100653226",
+    "dob": "2007-06-11",
+    "name": "Sakshi",
+    "mother_name": "Bhagyashree",
+    "mobile_number": "8010682294",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chouhan Deepika Chandershekhar",
+    "prn": "2025016100653234",
+    "dob": "1988-07-19",
+    "name": "Deepika",
+    "mother_name": "Renuka",
+    "mobile_number": "9890271065",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thakre Rupali Pandurang",
+    "prn": "2025016100653242",
+    "dob": "2007-01-27",
+    "name": "Rupali",
+    "mother_name": "Mandabai",
+    "mobile_number": "9309001226",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ghodmre Sayali Tukaram",
+    "prn": "2025016100653257",
+    "dob": "2004-05-02",
+    "name": "Sayali",
+    "mother_name": "Kaveri",
+    "mobile_number": "9657374328",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Avhale Priyanka Bhashkar",
+    "prn": "2025016100653265",
+    "dob": "2006-10-17",
+    "name": "Priyanka",
+    "mother_name": "Rekha",
+    "mobile_number": "7020579620",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gunjkar Tejasvini Vasant",
+    "prn": "2025016100653273",
+    "dob": "2007-06-13",
+    "name": "Tejasvini",
+    "mother_name": "Nandini",
+    "mobile_number": "9823993214",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gomase Pranjali Gajanan",
+    "prn": "2025016100653281",
+    "dob": "2007-01-26",
+    "name": "Pranjali",
+    "mother_name": "Suvarna",
+    "mobile_number": "9270568891",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Khade Pallavi Pramod",
+    "prn": "2025016100653296",
+    "dob": "2007-06-14",
+    "name": "Pallavi",
+    "mother_name": "Maya",
+    "mobile_number": "8208735096",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chavhan Gayatri Udal",
+    "prn": "2025016100653307",
+    "dob": "2007-05-08",
+    "name": "Gayatri",
+    "mother_name": "Shalu",
+    "mobile_number": "9699269122",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Nilkanth Shital Samadhan",
+    "prn": "2025016100653354",
+    "dob": "1992-04-03",
+    "name": "Shital",
+    "mother_name": "Jijabai",
+    "mobile_number": "8975011683",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Jichkar Rani Ravindra",
+    "prn": "2025016100653362",
+    "dob": "2007-06-01",
+    "name": "Rani",
+    "mother_name": "Asha",
+    "mobile_number": "8698197172",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Masotkar Mayuri Raju",
+    "prn": "2025016100653377",
+    "dob": "2007-02-01",
+    "name": "Mayuri",
+    "mother_name": "Nalu",
+    "mobile_number": "9322076598",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Aachal Sukhadev",
+    "prn": "2025016100653385",
+    "dob": "2007-01-20",
+    "name": "Aachal",
+    "mother_name": "Ranjana",
+    "mobile_number": "9021454930",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Jadhao Jyoti Manikrao",
+    "prn": "2025016100653393",
+    "dob": "1994-01-20",
+    "name": "Jyoti Manikrao Jadhao",
+    "mother_name": "Chhabu",
+    "mobile_number": "7720019947",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Lule Pratibha Namdeo",
+    "prn": "2025016100654091",
+    "dob": "2006-12-30",
+    "name": "Pratibha",
+    "mother_name": "Chitra",
+    "mobile_number": "9325085078",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mahale Durga Bapurao",
+    "prn": "2025016100654141",
+    "dob": "1994-05-17",
+    "name": "Durga",
+    "mother_name": "Ranjanabai",
+    "mobile_number": "7875308931",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Kale Vishakha Uttamrao",
+    "prn": "2025016100654206",
+    "dob": "#N-A",
+    "name": "#N-A",
+    "mother_name": "#N-A",
+    "mobile_number": "#N-A",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mude Sharda Datta",
+    "prn": "2025016100654214",
+    "dob": "2003-01-28",
+    "name": "Sharda",
+    "mother_name": "Radha",
+    "mobile_number": "9456456456",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rohankar Bhagyashri Gajanan",
+    "prn": "2025016100654245",
+    "dob": "2003-03-28",
+    "name": "Bhagyashri",
+    "mother_name": "Sangita",
+    "mobile_number": "9458456464",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Savad Bhavana Gopal",
+    "prn": "2025016100654284",
+    "dob": "2002-11-08",
+    "name": "Bhavana",
+    "mother_name": "Rekha",
+    "mobile_number": "7083201674",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Pradhan Prachi Gulab",
+    "prn": "2025016100654292",
+    "dob": "2005-06-22",
+    "name": "Prachi",
+    "mother_name": "Shardha",
+    "mobile_number": "9021593392",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Jadhav Nilakshi Vinod",
+    "prn": "2025016100654574",
+    "dob": "2007-01-17",
+    "name": "Nilakshi",
+    "mother_name": "Sangita",
+    "mobile_number": "9004655202",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Raoplaei Rudrayani Rajkumar",
+    "prn": "2025016100654767",
+    "dob": "2005-02-15",
+    "name": "Rudrayani",
+    "mother_name": "Madhuri",
+    "mobile_number": "8007905918",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Dipali Subhash",
+    "prn": "2025016100654783",
+    "dob": "2002-10-20",
+    "name": "Dipali",
+    "mother_name": "Sagar",
+    "mobile_number": "9322284642",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Panchbuddhe Priti Vinod",
+    "prn": "2025016100656147",
+    "dob": "2007-03-12",
+    "name": "Priti",
+    "mother_name": "Savita",
+    "mobile_number": "9604320062",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Saniya Parveen Abdul Ansar ",
+    "prn": "2025016100656461",
+    "dob": "2005-01-18",
+    "name": "Saniya Parveen",
+    "mother_name": "Rukhsar Parveen",
+    "mobile_number": "9158665313",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ghodake Rina Bhavani",
+    "prn": "2025016100656476",
+    "dob": "2003-01-20",
+    "name": "Rina",
+    "mother_name": "Manisha",
+    "mobile_number": "9456464564",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Khodake Neha Kavishwar",
+    "prn": "2025016100656743",
+    "dob": "2005-09-10",
+    "name": "Neha",
+    "mother_name": "Chitra",
+    "mobile_number": "9455216456",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Sawake Shubhangi Santosh",
+    "prn": "2025016100657255",
+    "dob": "2003-09-14",
+    "name": "Shubhangi",
+    "mother_name": "Pushpa",
+    "mobile_number": "9657435484",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ghatfode Shivani Datta",
+    "prn": "2025016100657843",
+    "dob": "2007-04-17",
+    "name": "Shivani",
+    "mother_name": "Ramkor",
+    "mobile_number": "8796524125",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ingole Shivani Premraj",
+    "prn": "2025016100665436",
+    "dob": "1999-08-29",
+    "name": "Shivani",
+    "mother_name": "Chitralekha",
+    "mobile_number": "9420639648",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ghodamare Purva Manohar",
+    "prn": "2025016100665614",
+    "dob": "2005-07-28",
+    "name": "Purva",
+    "mother_name": "Rekha",
+    "mobile_number": "8999062476",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gurude Vishwita Mangesh",
+    "prn": "2025016100665711",
+    "dob": "2006-06-23",
+    "name": "Vishvita",
+    "mother_name": "Vandana",
+    "mobile_number": "9623587458",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhole Rutuja Rajesh",
+    "prn": "2025016100776876",
+    "dob": "2004-10-24",
+    "name": "Rutuja",
+    "mother_name": "Shubhangi",
+    "mobile_number": "9322140839",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thakare Trupti Gajanan",
+    "prn": "2025016100776884",
+    "dob": "2007-11-14",
+    "name": "Trupti",
+    "mother_name": "Rupali",
+    "mobile_number": "9922066535",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Topale Shravani Chandrashekhar",
+    "prn": "2025016100776892",
+    "dob": "2007-04-26",
+    "name": "Shravani",
+    "mother_name": "Shilpa",
+    "mobile_number": "7020751539",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Nandini Kishor",
+    "prn": "2025016100776911",
+    "dob": "2007-02-15",
+    "name": "Nandini",
+    "mother_name": "Seema",
+    "mobile_number": "8999662667",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rudraksh Maya Namdev",
+    "prn": "2025016100776926",
+    "dob": "2006-09-08",
+    "name": "Maya",
+    "mother_name": "Rekha",
+    "mobile_number": "9881798002",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Prajakta Prakash",
+    "prn": "2025016100776934",
+    "dob": "2007-08-27",
+    "name": "Prajakta",
+    "mother_name": "Chandrakala",
+    "mobile_number": "8698238635",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ingale Bhagyashri Santosh",
+    "prn": "2025016100776942",
+    "dob": "2007-03-08",
+    "name": "Bhagyashri",
+    "mother_name": "Sunita",
+    "mobile_number": "7741825969",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Fuke Rupali Manoj",
+    "prn": "2025016100778844",
+    "dob": "2008-11-15",
+    "name": "Rupali",
+    "mother_name": "Ujwala",
+    "mobile_number": "9689764740",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thakare Pallavi Ramesh",
+    "prn": "2025016100779662",
+    "dob": "2005-05-30",
+    "name": "Pallavi",
+    "mother_name": "Nirjala",
+    "mobile_number": "9359929625",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ukhalkar Vedika Purushottam",
+    "prn": "2025016100779677",
+    "dob": "2008-02-15",
+    "name": "Vedika",
+    "mother_name": "Sunita",
+    "mobile_number": "7757095298",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thakare Srushti Shrikrushna",
+    "prn": "2025016100779685",
+    "dob": "2008-04-21",
+    "name": "Srushti",
+    "mother_name": "Manda",
+    "mobile_number": "9657151935",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ghatol Samiksha Gajanan",
+    "prn": "2025016100779693",
+    "dob": "2007-09-29",
+    "name": "Samiksha",
+    "mother_name": "Vandana",
+    "mobile_number": "9209844580",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ukhalkar Shravani Dinesh",
+    "prn": "2025016100786476",
+    "dob": "2007-06-09",
+    "name": "Shravani",
+    "mother_name": "Manisha",
+    "mobile_number": "7666318613",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Asole Alandi Arun",
+    "prn": "2025016100786484",
+    "dob": "2006-12-06",
+    "name": "Alandi",
+    "mother_name": "Shital",
+    "mobile_number": "7507492577",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Abdul Mujeeb Alveena Mahvish",
+    "prn": "2025016100789382",
+    "dob": "2007-09-24",
+    "name": "Alveena Mahvish",
+    "mother_name": "Kalimunnisa",
+    "mobile_number": "9657196929",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhoge Vaishnavi Ramanand",
+    "prn": "2025016100810152",
+    "dob": "2004-06-02",
+    "name": "Vaishnavi",
+    "mother_name": "Asha",
+    "mobile_number": "8390144150",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chakare Tejaswini Sanjay",
+    "prn": "2025016100834927",
+    "dob": "2006-09-26",
+    "name": "Tejaswini",
+    "mother_name": "Manda",
+    "mobile_number": "8669365723",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Sarode Kalyani Anil",
+    "prn": "2025016100834997",
+    "dob": "2006-05-28",
+    "name": "Kalyani",
+    "mother_name": "Mangala",
+    "mobile_number": "9322740118",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Amate Bhavna Kishor",
+    "prn": "2025016100835207",
+    "dob": "2003-04-23",
+    "name": "Bhavna",
+    "mother_name": "Ganga",
+    "mobile_number": "9209115950",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Alkama Mahin Mukhtar Ahmad Khan",
+    "prn": "2025016100844914",
+    "dob": "2005-03-26",
+    "name": "Alkama Mahin",
+    "mother_name": "Fauziya Tarannum",
+    "mobile_number": "9515502032",
+    "course_code": "BSC2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Sarakate Sayali Arun",
+    "prn": "2025016100653184",
+    "dob": "2006-07-12",
+    "name": "Sayali",
+    "mother_name": "Ranjana",
+    "mobile_number": "8329613789",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Shelke Nikita Prakash",
+    "prn": "2025016100653315",
+    "dob": "2002-03-27",
+    "name": "Nikita",
+    "mother_name": "Lata",
+    "mobile_number": "9545645644",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Khadse Jyoti Fakira",
+    "prn": "2025016100653323",
+    "dob": "1993-09-10",
+    "name": "Jyoti",
+    "mother_name": "Suman",
+    "mobile_number": "9511278761",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Aru Achal Shrikrushna",
+    "prn": "2025016100653331",
+    "dob": "2008-01-12",
+    "name": "Achal",
+    "mother_name": "Manda",
+    "mobile_number": "8975622650",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhadawe Jyoti Kisan",
+    "prn": "2025016100653404",
+    "dob": "1986-04-10",
+    "name": "Jyoti",
+    "mother_name": "Asha",
+    "mobile_number": "7350821461",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mahalle Nisha Vijay",
+    "prn": "2025016100653412",
+    "dob": "2007-10-12",
+    "name": "Nisha",
+    "mother_name": "Shalu",
+    "mobile_number": "9284659751",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhagat Sakshi Rahul",
+    "prn": "2025016100653427",
+    "dob": "2005-02-24",
+    "name": "Sakshi",
+    "mother_name": "Rupali",
+    "mobile_number": "7445874584",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Tivari Shital Sandip",
+    "prn": "2025016100653435",
+    "dob": "2007-03-18",
+    "name": "Shital",
+    "mother_name": "Sima",
+    "mobile_number": "7841976918",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chavhan Tejal Yuvraj",
+    "prn": "2025016100653443",
+    "dob": "2007-02-26",
+    "name": "Tejal",
+    "mother_name": "Vanita",
+    "mobile_number": "8767739301",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chumbale Pallavi Sharad",
+    "prn": "2025016100653451",
+    "dob": "2002-09-10",
+    "name": "Pallavi",
+    "mother_name": "Shila",
+    "mobile_number": "9766546029",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhole Mayuri Gajanan",
+    "prn": "2025016100653466",
+    "dob": "1999-11-07",
+    "name": "Mayuri",
+    "mother_name": "Aruna",
+    "mobile_number": "9673807134",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Shrungare Minakshi Arvind",
+    "prn": "2025016100653474",
+    "dob": "2007-04-29",
+    "name": "Minakshi",
+    "mother_name": "Sadhana",
+    "mobile_number": "9518333805",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Pawar Vaishnavi Pundlik",
+    "prn": "2025016100653482",
+    "dob": "2004-11-26",
+    "name": "Vaishnavi",
+    "mother_name": "Sangita",
+    "mobile_number": "9022308979",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gujare Bhumika Tejas",
+    "prn": "2025016100653497",
+    "dob": "2007-01-03",
+    "name": "Bhumika",
+    "mother_name": "Usha",
+    "mobile_number": "9322128312",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Manwar Arpita Anil",
+    "prn": "2025016100653965",
+    "dob": "2007-08-26",
+    "name": "Arpita",
+    "mother_name": "Anjali",
+    "mobile_number": "7721978449",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Kukade Chaitali Bhaurao",
+    "prn": "2025016100653973",
+    "dob": "2006-12-12",
+    "name": "Chaitali",
+    "mother_name": "Kalpana",
+    "mobile_number": "9373357476",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rozeena Parveen Rahman Baig",
+    "prn": "2025016100654156",
+    "dob": "2001-03-14",
+    "name": "Rozeena Parveen",
+    "mother_name": "Haseena Bi",
+    "mobile_number": "8180991381",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Saba Kausar Wahabuddin",
+    "prn": "2025016100654164",
+    "dob": "1992-01-01",
+    "name": "Saba",
+    "mother_name": "Fahmida Parveen",
+    "mobile_number": "7517065270",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Misbah Parveen Abdul Nazeer",
+    "prn": "2025016100654253",
+    "dob": "2008-02-06",
+    "name": "Misbah Parveen",
+    "mother_name": "Shahnaz Parveen",
+    "mobile_number": "8888201330",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Pawar Nandini Vasanta",
+    "prn": "2025016100654752",
+    "dob": "2007-08-26",
+    "name": "Nandini",
+    "mother_name": "Maya",
+    "mobile_number": "8263961720",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chavhan Ankita Shakti",
+    "prn": "2025016100654775",
+    "dob": "2007-05-02",
+    "name": "Ankita",
+    "mother_name": "Shilpa",
+    "mobile_number": "7474758698",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Jadhav Sonali Kailas",
+    "prn": "2025016100654833",
+    "dob": "2006-03-03",
+    "name": "Sonali",
+    "mother_name": "Pravita",
+    "mobile_number": "7485968574",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhagat Puja Pandit",
+    "prn": "2025016100654856",
+    "dob": "1990-02-06",
+    "name": "Puja",
+    "mother_name": "Sushilabai",
+    "mobile_number": "7423698147",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ingole Pratiksha Vijay",
+    "prn": "2025016100654895",
+    "dob": "1999-07-28",
+    "name": "Pratiksha",
+    "mother_name": "Alka",
+    "mobile_number": "9370007225",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhomne Puja Sukhdev",
+    "prn": "2025016100654922",
+    "dob": "1994-08-20",
+    "name": "Puja",
+    "mother_name": "Maya",
+    "mobile_number": "9665397590",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Manwar Manisha Nagorao",
+    "prn": "2025016100654961",
+    "dob": "1994-04-21",
+    "name": "Manisha",
+    "mother_name": "Yashoda",
+    "mobile_number": "7485968787",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Hembade Mayavati Madhukar",
+    "prn": "2025016100654984",
+    "dob": "1995-01-21",
+    "name": "Mayavati",
+    "mother_name": "Laxmibai",
+    "mobile_number": "7412365874",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mahalle Mayuri Dilip",
+    "prn": "2025016100654992",
+    "dob": "1997-05-15",
+    "name": "Mayuri",
+    "mother_name": "Alka",
+    "mobile_number": "9307468950",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Dhakulakar Suwarna Raju",
+    "prn": "2025016100655001",
+    "dob": "1997-03-23",
+    "name": "Suwarna",
+    "mother_name": "Pratibha",
+    "mobile_number": "7489657458",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bure Akshara Sunil",
+    "prn": "2025016100656155",
+    "dob": "2007-04-29",
+    "name": "Akshara",
+    "mother_name": "Kavita",
+    "mobile_number": "9657101278",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Maigane Madhuri Subhash",
+    "prn": "2025016100656163",
+    "dob": "2007-01-01",
+    "name": "Madhuri",
+    "mother_name": "Meera",
+    "mobile_number": "9604330564",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Nasreen Perween Abdul Anees",
+    "prn": "2025016100656325",
+    "dob": "1989-01-01",
+    "name": "Nasreen Perween",
+    "mother_name": "Parveen",
+    "mobile_number": "7350166373",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Samreen Bi Abdul Hakeem",
+    "prn": "2025016100656387",
+    "dob": "1996-05-26",
+    "name": "Samreen Bi",
+    "mother_name": "Kaniza Fatema",
+    "mobile_number": "9689131309",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thakare Pragati Vitthal",
+    "prn": "2025016100657681",
+    "dob": "1997-12-07",
+    "name": "Pragati",
+    "mother_name": "Ranjana",
+    "mobile_number": "8745987458",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mahalle Sakshi Rajesh",
+    "prn": "2025016100665444",
+    "dob": "2003-06-06",
+    "name": "Sakshi",
+    "mother_name": "Varsha",
+    "mobile_number": "9552090625",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhagat Mamata Manohar",
+    "prn": "2025016100665452",
+    "dob": "2006-08-04",
+    "name": "Mamata",
+    "mother_name": "Shila",
+    "mobile_number": "7499047235",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ingole Ankita Mahadev",
+    "prn": "2025016100665622",
+    "dob": "2006-01-01",
+    "name": "Ankita",
+    "mother_name": "Fulavanti",
+    "mobile_number": "9527459069",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gavhane Aasha Vijay",
+    "prn": "2025016100670816",
+    "dob": "1993-06-19",
+    "name": "Aasha",
+    "mother_name": "Lalita",
+    "mobile_number": "7456324125",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Manwar Nita Sopan",
+    "prn": "2025016100676836",
+    "dob": "1998-03-07",
+    "name": "Nita",
+    "mother_name": "Ranjanabai",
+    "mobile_number": "8261800235",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Anjana Indal",
+    "prn": "2025016100692151",
+    "dob": "2006-07-16",
+    "name": "Anjana",
+    "mother_name": "Shindubai",
+    "mobile_number": "9422105465",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhagat Ashwini Gajanan",
+    "prn": "2025016100776957",
+    "dob": "1998-09-20",
+    "name": "Ashwini",
+    "mother_name": "Mathura",
+    "mobile_number": "8805931603",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Wakchaware Sanika Suresh",
+    "prn": "2025016100776965",
+    "dob": "2005-12-08",
+    "name": "Sanika",
+    "mother_name": "Sangeeta",
+    "mobile_number": "7874859685",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Rathod Anjali Anil",
+    "prn": "2025016100776973",
+    "dob": "2006-12-28",
+    "name": "Anjali",
+    "mother_name": "Usha",
+    "mobile_number": "8691969857",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Chavhan Divya Anil",
+    "prn": "2025016100776981",
+    "dob": "2007-11-20",
+    "name": "Divya",
+    "mother_name": "Anita",
+    "mobile_number": "9370450919",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Mate Madhuri Devrav",
+    "prn": "2025016100776996",
+    "dob": "1999-09-06",
+    "name": "Madhuri",
+    "mother_name": "Bebibai",
+    "mobile_number": "9767260105",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gaikwad Rita Samadhan",
+    "prn": "2025016100777091",
+    "dob": "1997-12-03",
+    "name": "Rita",
+    "mother_name": "Lata",
+    "mobile_number": "9307235681",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Umale Tanvi Rajesh",
+    "prn": "2025016100777102",
+    "dob": "2007-11-07",
+    "name": "Tanvi",
+    "mother_name": "Anuradha",
+    "mobile_number": "7057003872",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Arshiya Firdos Ansar Khan",
+    "prn": "2025016100779213",
+    "dob": "2004-03-08",
+    "name": "Arshiya",
+    "mother_name": "Rukhsana Perween",
+    "mobile_number": "8788899091",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhoyar Pooja Mahadev",
+    "prn": "2025016100779704",
+    "dob": "2007-03-15",
+    "name": "Pooja",
+    "mother_name": "Jyoti",
+    "mobile_number": "8308608957",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Satav Rajnandini Prakash",
+    "prn": "2025016100779712",
+    "dob": "1999-06-26",
+    "name": "Rajnandini",
+    "mother_name": "Maya",
+    "mobile_number": "8600243290",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Engad Arati Sunil",
+    "prn": "2025016100779766",
+    "dob": "2006-05-19",
+    "name": "Arati",
+    "mother_name": "Asha",
+    "mobile_number": "9021422576",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Thakare Komal Bhagavat",
+    "prn": "2025016100786492",
+    "dob": "2007-06-20",
+    "name": "Komal",
+    "mother_name": "Jyoti",
+    "mobile_number": "9226087225",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Bhendekar Shivganga Vijay",
+    "prn": "2025016100788421",
+    "dob": "2001-04-25",
+    "name": "Shivganga",
+    "mother_name": "Mangalabai",
+    "mobile_number": "9689500831",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Hemane Vaishnavi Dayaram",
+    "prn": "2025016100788436",
+    "dob": "2002-04-04",
+    "name": "Vaishnavi",
+    "mother_name": "Lila",
+    "mobile_number": "7058609539",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Pawar Aparna Sugandh",
+    "prn": "2025016100794112",
+    "dob": "2007-04-02",
+    "name": "Aparna",
+    "mother_name": "Sunita",
+    "mobile_number": "8689894424",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Ingole Priya Vijay",
+    "prn": "2025016100808756",
+    "dob": "2007-01-22",
+    "name": "Priya",
+    "mother_name": "Alka",
+    "mobile_number": "9623462311",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Hiwarale Vijaya Manik",
+    "prn": "2025016100835196",
+    "dob": "2004-10-13",
+    "name": "Vijaya",
+    "mother_name": "Sunanda",
+    "mobile_number": "9011449568",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Gade Payal Balaji",
+    "prn": "2025016100844961",
+    "dob": "2005-05-13",
+    "name": "Payal",
+    "mother_name": "Vimal",
+    "mobile_number": "7620647531",
+    "course_code": "BA2025",
+    "college_code": "513"
+  },
+  {
+    "student_name": "Doke Sayali Aniruddha",
+    "prn": "2025016100637096",
+    "dob": "2006-08-15",
+    "name": "Sayali",
+    "mother_name": "Varsha",
+    "mobile_number": "9373507033",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Vairagade Monika Nandakishor",
+    "prn": "2025016100637107",
+    "dob": "1999-09-08",
+    "name": "Monika",
+    "mother_name": "Mangala",
+    "mobile_number": "9356925947",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Amate Payal Mahadev",
+    "prn": "2025016100637115",
+    "dob": "2006-06-19",
+    "name": "Payal",
+    "mother_name": "Surekha",
+    "mobile_number": "9373410725",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ingole Kiran Sanjay",
+    "prn": "2025016100637123",
+    "dob": "2005-04-14",
+    "name": "Kiran",
+    "mother_name": "Sunanda",
+    "mobile_number": "9922683627",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Amale Harsha Vijay",
+    "prn": "2025016100637131",
+    "dob": "2008-01-11",
+    "name": "Harsha",
+    "mother_name": "Babita",
+    "mobile_number": "7666138752",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Chaitali Sandip",
+    "prn": "2025016100637146",
+    "dob": "2006-12-02",
+    "name": "Chaitali",
+    "mother_name": "Indubai",
+    "mobile_number": "9604933174",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhagat Kajal Prakash",
+    "prn": "2025016100637154",
+    "dob": "2006-07-11",
+    "name": "Kajal",
+    "mother_name": "Darshana",
+    "mobile_number": "8766095028",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Vaishnavi Gajanan",
+    "prn": "2025016100637162",
+    "dob": "2004-05-20",
+    "name": "Vaishnavi",
+    "mother_name": "Lalita",
+    "mobile_number": "8805321146",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhagat Pragati Keshav",
+    "prn": "2025016100637177",
+    "dob": "2007-01-16",
+    "name": "Pragati",
+    "mother_name": "Sadhana",
+    "mobile_number": "9689322528",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pardhi Laxmi Kishor",
+    "prn": "2025016100637185",
+    "dob": "2007-12-17",
+    "name": "Laxmi",
+    "mother_name": "Archana",
+    "mobile_number": "9209899971",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gawande Neha Sunil",
+    "prn": "2025016100637193",
+    "dob": "2007-10-07",
+    "name": "Neha",
+    "mother_name": "Mamta",
+    "mobile_number": "9922140585",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Saniya Sadaf Abdul Wajid",
+    "prn": "2025016100637204",
+    "dob": "2007-02-27",
+    "name": "Saniya Sadaf",
+    "mother_name": "Najmunnisa",
+    "mobile_number": "8669083472",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gavhane Punam Dilip",
+    "prn": "2025016100637212",
+    "dob": "2006-08-12",
+    "name": "Punam",
+    "mother_name": "Jijabai",
+    "mobile_number": "8975167975",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Sonone Shruti Balak",
+    "prn": "2025016100637227",
+    "dob": "2006-08-20",
+    "name": "Shruti",
+    "mother_name": "Mira",
+    "mobile_number": "7666367404",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhoyar Manju Sahebrao",
+    "prn": "2025016100637235",
+    "dob": "2005-06-07",
+    "name": "Manju",
+    "mother_name": "Sindubai",
+    "mobile_number": "9527377613",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Ashvini Milind",
+    "prn": "2025016100637243",
+    "dob": "2007-10-04",
+    "name": "Ashvini",
+    "mother_name": "Archana",
+    "mobile_number": "9067583789",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Nandani Ganesh",
+    "prn": "2025016100637251",
+    "dob": "2007-07-02",
+    "name": "Nandani",
+    "mother_name": "Shital",
+    "mobile_number": "8888965227",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Dhole Komal Vinod",
+    "prn": "2025016100637266",
+    "dob": "2007-01-14",
+    "name": "Komal",
+    "mother_name": "Sonutai",
+    "mobile_number": "8767579107",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Targe Dhanashri Dnyaneshwar",
+    "prn": "2025016100637274",
+    "dob": "2007-02-14",
+    "name": "Dhanashri",
+    "mother_name": "Harsha",
+    "mobile_number": "7478596847",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Waghmare Shruti Vilas",
+    "prn": "2025016100637282",
+    "dob": "2007-07-16",
+    "name": "Shruti",
+    "mother_name": "Uma",
+    "mobile_number": "7758878879",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pawar Ankita Rajesh",
+    "prn": "2025016100637297",
+    "dob": "2007-02-02",
+    "name": "Ankita",
+    "mother_name": "Anita",
+    "mobile_number": "9356257644",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gavhane Komal Ramdas",
+    "prn": "2025016100637301",
+    "dob": "2007-06-16",
+    "name": "Komal",
+    "mother_name": "Laxmi",
+    "mobile_number": "8055909492",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gayakwad Sachi Chhatrapati",
+    "prn": "2025016100637316",
+    "dob": "2006-04-08",
+    "name": "Sachi",
+    "mother_name": "Maya",
+    "mobile_number": "9322787068",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pakdhane Vaibhavi Vijay",
+    "prn": "2025016100637324",
+    "dob": "2006-10-23",
+    "name": "Vaibhavi",
+    "mother_name": "Anuradha",
+    "mobile_number": "9075934740",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Sonone Bharti Purushottam",
+    "prn": "2025016100637332",
+    "dob": "1986-10-09",
+    "name": "Bharti",
+    "mother_name": "Lalita",
+    "mobile_number": "9175592413",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Manisha Ramesh",
+    "prn": "2025016100637347",
+    "dob": "2001-04-04",
+    "name": "Manisha",
+    "mother_name": "Anita",
+    "mobile_number": "9284159814",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Savad Vaishnavi Gopal",
+    "prn": "2025016100637355",
+    "dob": "2005-05-01",
+    "name": "Vaishnavi",
+    "mother_name": "Rekha",
+    "mobile_number": "8975514942",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ghadge Sakshi Pravin",
+    "prn": "2025016100637363",
+    "dob": "2006-09-01",
+    "name": "Sakshi",
+    "mother_name": "Nirmala",
+    "mobile_number": "9370021790",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Kashte Sakshi Devidas",
+    "prn": "2025016100637371",
+    "dob": "2007-10-26",
+    "name": "Sakshi",
+    "mother_name": "Parvati",
+    "mobile_number": "9226269709",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Shivani Santosh",
+    "prn": "2025016100637386",
+    "dob": "2007-06-05",
+    "name": "Shivani",
+    "mother_name": "Nisha",
+    "mobile_number": "9529926860",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Wankhade Monal Balvant",
+    "prn": "2025016100637394",
+    "dob": "2008-03-20",
+    "name": "Monal",
+    "mother_name": "Jyoti",
+    "mobile_number": "9637794200",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Prafulata Devidas",
+    "prn": "2025016100637405",
+    "dob": "2006-06-07",
+    "name": "Prafulata",
+    "mother_name": "Aruna",
+    "mobile_number": "7350816827",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Nikita Santosh",
+    "prn": "2025016100637413",
+    "dob": "2008-04-06",
+    "name": "Nikita",
+    "mother_name": "Anita",
+    "mobile_number": "7823822931",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pohane Suhani Pradip",
+    "prn": "2025016100637421",
+    "dob": "2007-04-06",
+    "name": "Suhani",
+    "mother_name": "Archana",
+    "mobile_number": "7720009854",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Manwar Pratiksha Bhaskar",
+    "prn": "2025016100637436",
+    "dob": "2007-02-15",
+    "name": "Pratiksha",
+    "mother_name": "Sujata",
+    "mobile_number": "9923733673",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhoyar Gayatri Niranjan",
+    "prn": "2025016100637444",
+    "dob": "2005-01-26",
+    "name": "Gayatri Niranjan Rathod",
+    "mother_name": "Devakabai",
+    "mobile_number": "8668308836",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gulde Nikita Sanjay",
+    "prn": "2025016100637452",
+    "dob": "2005-01-08",
+    "name": "Nikita",
+    "mother_name": "Jyoti",
+    "mobile_number": "9822971266",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Wankhade Anjali Sanjay",
+    "prn": "2025016100637467",
+    "dob": "2007-03-07",
+    "name": "Anjali",
+    "mother_name": "Suchita",
+    "mobile_number": "9423847236",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Nitnavre Payal Santosh",
+    "prn": "2025016100637475",
+    "dob": "2007-04-20",
+    "name": "Payal",
+    "mother_name": "Mina",
+    "mobile_number": "8888031780",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chakranarayan Pranavi Jivan",
+    "prn": "2025016100637483",
+    "dob": "2008-01-20",
+    "name": "Pranavi",
+    "mother_name": "Ranjana",
+    "mobile_number": "8208890069",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Undal Payal Suresh",
+    "prn": "2025016100637491",
+    "dob": "2007-01-19",
+    "name": "Payal",
+    "mother_name": "Mangla",
+    "mobile_number": "9579034715",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Ranjana Gopal",
+    "prn": "2025016100637502",
+    "dob": "1992-01-03",
+    "name": "Ranjana",
+    "mother_name": "Sumitra",
+    "mobile_number": "9067567262",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Neha Chandan",
+    "prn": "2025016100637517",
+    "dob": "2004-09-29",
+    "name": "Neha",
+    "mother_name": "Sushma",
+    "mobile_number": "8468834554",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pohane Samiksha Sanjay",
+    "prn": "2025016100637525",
+    "dob": "2004-08-08",
+    "name": "Samiksha",
+    "mother_name": "Rekha",
+    "mobile_number": "9022832072",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Naushaba Firdaus Abdul Haleem",
+    "prn": "2025016100637533",
+    "dob": "1994-01-02",
+    "name": "Naushaba",
+    "mother_name": "Shahnaz Parveen",
+    "mobile_number": "7385242817",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ghatfode Gayatri Shivaji",
+    "prn": "2025016100637541",
+    "dob": "2007-07-16",
+    "name": "Gayatri",
+    "mother_name": "Lila",
+    "mobile_number": "8767661646",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ingole Devyani Devendra",
+    "prn": "2025016100637556",
+    "dob": "2001-12-24",
+    "name": "Devyani",
+    "mother_name": "Sarita",
+    "mobile_number": "9373184639",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Matin Darakhsha Sarosh Abdul",
+    "prn": "2025016100637564",
+    "dob": "2006-06-04",
+    "name": "Darakhsha",
+    "mother_name": "Rafiya Khanam",
+    "mobile_number": "9270058437",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Wathore Bhagyashree Dnyanbarao",
+    "prn": "2025016100637572",
+    "dob": "1994-08-31",
+    "name": "Bhagyashree",
+    "mother_name": "Mahanandabai",
+    "mobile_number": "8329122326",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gavhane Puja Pandit",
+    "prn": "2025016100637587",
+    "dob": "1998-06-14",
+    "name": "Puja",
+    "mother_name": "Padminabai",
+    "mobile_number": "8975162152",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhagat Sayali Ajabrao",
+    "prn": "2025016100637595",
+    "dob": "2007-09-29",
+    "name": "Sayali",
+    "mother_name": "Sujata",
+    "mobile_number": "8007482965",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Samiksha Dilip",
+    "prn": "2025016100637606",
+    "dob": "2007-01-01",
+    "name": "Samiksha",
+    "mother_name": "Kavita",
+    "mobile_number": "8888623105",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Vachchhe Vaishnavi Gajanan",
+    "prn": "2025016100637614",
+    "dob": "2006-09-03",
+    "name": "Vaishnavi",
+    "mother_name": "Asha",
+    "mobile_number": "7758008046",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pawar Snjana Sham",
+    "prn": "2025016100777005",
+    "dob": "2004-08-01",
+    "name": "Sanjana",
+    "mother_name": "Mala",
+    "mobile_number": "8208080022",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pawar Shubhangi Santosh",
+    "prn": "2025016100777013",
+    "dob": "2007-01-27",
+    "name": "Shubhangi",
+    "mother_name": "Gita",
+    "mobile_number": "8975707490",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Wankhade Chaitanya Balwant",
+    "prn": "2025016100777021",
+    "dob": "2006-02-03",
+    "name": "Chaitanya",
+    "mother_name": "Jyoti",
+    "mobile_number": "7620343722",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Tople Bharati Sunil",
+    "prn": "2025016100777036",
+    "dob": "2007-03-02",
+    "name": "Bharti",
+    "mother_name": "Mangla",
+    "mobile_number": "9022878426",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pawar Asmita Sharad",
+    "prn": "2025016100777044",
+    "dob": "2007-11-02",
+    "name": "Asmita",
+    "mother_name": "Anjali",
+    "mobile_number": "9699630028",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Khansa Mahereen Feroz Khan",
+    "prn": "2025016100777052",
+    "dob": "2004-11-20",
+    "name": "Khansa Mahereen",
+    "mother_name": "Farida Khanan",
+    "mobile_number": "9146763271",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Sumayya Sadaf Nawaz Ahmad Khan",
+    "prn": "2025016100777067",
+    "dob": "2003-06-15",
+    "name": "Sumayya Sadaf",
+    "mother_name": "Nahid Anjum",
+    "mobile_number": "7057085184",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Aasiya Anjum Iiyas Khan ",
+    "prn": "2025016100777075",
+    "dob": "2004-02-23",
+    "name": "Aasiya Anjum",
+    "mother_name": "Shagufta Yasmin",
+    "mobile_number": "9579213454",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Sawake Shamal Mahadev",
+    "prn": "2025016100777083",
+    "dob": "2007-07-14",
+    "name": "Shamal",
+    "mother_name": "Yashoda",
+    "mobile_number": "8010847106",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhagat Sharvari Santosh",
+    "prn": "2025016100777767",
+    "dob": "2006-07-26",
+    "name": "Sharvari",
+    "mother_name": "Ujwala",
+    "mobile_number": "9503973643",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Khandare Nisha Samadhan",
+    "prn": "2025016100779406",
+    "dob": "2007-07-22",
+    "name": "Nisha",
+    "mother_name": "Vijayabai",
+    "mobile_number": "7020124065",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Kshirsagar Samiksha Nandu",
+    "prn": "2025016100779727",
+    "dob": "2006-03-27",
+    "name": "Samiksha",
+    "mother_name": "Madhuri",
+    "mobile_number": "9579182593",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhusare Shraddha Vinod",
+    "prn": "2025016100779735",
+    "dob": "2006-09-12",
+    "name": "Shraddha",
+    "mother_name": "Shital",
+    "mobile_number": "8767040413",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Thakare Durga Digambar",
+    "prn": "2025016100779743",
+    "dob": "2003-06-24",
+    "name": "Durga",
+    "mother_name": "Nanda",
+    "mobile_number": "9370598051",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Shinde Sanika Ramkrushna",
+    "prn": "2025016100779751",
+    "dob": "2008-04-15",
+    "name": "Sanika",
+    "mother_name": "Shubhangi",
+    "mobile_number": "9322588371",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhagat Prerna Bhaskar",
+    "prn": "2025016100786503",
+    "dob": "2004-03-03",
+    "name": "Prerna",
+    "mother_name": "Sulatai",
+    "mobile_number": "9699001920",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Shendge Sushma Uttamrao",
+    "prn": "2025016100788332",
+    "dob": "1990-06-01",
+    "name": "Sushma",
+    "mother_name": "Padminbai",
+    "mobile_number": "9730100663",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Udewal Payal Vijay",
+    "prn": "2025016100790114",
+    "dob": "2007-01-05",
+    "name": "Payal",
+    "mother_name": "Anjali",
+    "mobile_number": "9657319716",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Khire Puja Sanjay",
+    "prn": "2025016100790934",
+    "dob": "2006-04-27",
+    "name": "Puja",
+    "mother_name": "Mira",
+    "mobile_number": "9284629692",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Riya Bharat",
+    "prn": "2025016100791535",
+    "dob": "2007-08-09",
+    "name": "Riya",
+    "mother_name": "Nisha",
+    "mobile_number": "8263846641",
+    "course_code": "BSC2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Lahekar Sanika Dnyaneshwar",
+    "prn": "2025016100652865",
+    "dob": "2003-01-15",
+    "name": "Sanika",
+    "mother_name": "Lata",
+    "mobile_number": "8999310248",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Shinde Arati Rameshwar",
+    "prn": "2025016100652977",
+    "dob": "2004-04-20",
+    "name": "Arati",
+    "mother_name": "Yogita",
+    "mobile_number": "9022808164",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Shinde Pooja Sahebrao",
+    "prn": "2025016100652985",
+    "dob": "2007-12-14",
+    "name": "Pooja",
+    "mother_name": "Laxmi",
+    "mobile_number": "9373904227",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ingale Shamal Charandas",
+    "prn": "2025016100653814",
+    "dob": "2004-12-12",
+    "name": "Shamal",
+    "mother_name": "Ratna",
+    "mobile_number": "9022653758",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ambhore Kunta Amruta",
+    "prn": "2025016100653822",
+    "dob": "2006-03-20",
+    "name": "Kunta",
+    "mother_name": "Varsha",
+    "mobile_number": "7083153986",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Vaidya Ashwini Vinod",
+    "prn": "2025016100653837",
+    "dob": "2002-04-01",
+    "name": "Ashwini",
+    "mother_name": "Vanubai",
+    "mobile_number": "9579033871",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Thorat Arati Anil",
+    "prn": "2025016100653845",
+    "dob": "2000-03-20",
+    "name": "Arati",
+    "mother_name": "Vandana",
+    "mobile_number": "9022500916",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhagat Pranali Balu",
+    "prn": "2025016100653853",
+    "dob": "2003-04-15",
+    "name": "Pranali",
+    "mother_name": "Archana",
+    "mobile_number": "9552597399",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bargi Achal Namdev",
+    "prn": "2025016100653861",
+    "dob": "2007-02-17",
+    "name": "Achal",
+    "mother_name": "Sharada",
+    "mobile_number": "9373405145",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Dod Priya Santosh",
+    "prn": "2025016100653957",
+    "dob": "2007-06-14",
+    "name": "Priya",
+    "mother_name": "Jayashree",
+    "mobile_number": "9356354340",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pandule Maya Mahadev",
+    "prn": "2025016100654075",
+    "dob": "2006-08-17",
+    "name": "Maya",
+    "mother_name": "Durga",
+    "mobile_number": "8452957613",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Mirase Nayana Arun",
+    "prn": "2025016100654083",
+    "dob": "2006-08-05",
+    "name": "Nayana",
+    "mother_name": "Malu",
+    "mobile_number": "9767601314",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gawande Samiksha Devanand",
+    "prn": "2025016100656221",
+    "dob": "2006-11-05",
+    "name": "Samiksha",
+    "mother_name": "Rajkanya",
+    "mobile_number": "9527603240",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Tayade Ashwini Raju",
+    "prn": "2025016100656356",
+    "dob": "#N-A",
+    "name": "#N-A",
+    "mother_name": "#N-A",
+    "mobile_number": "#N-A",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ghode Shreya Prakash",
+    "prn": "2025016100656581",
+    "dob": "2006-07-09",
+    "name": "Shreya",
+    "mother_name": "Varsha",
+    "mobile_number": "9146500056",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "More Bhumika Jagdish",
+    "prn": "2025016100656623",
+    "dob": "2007-09-17",
+    "name": "Bhumika",
+    "mother_name": "Bebi",
+    "mobile_number": "7499816840",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Choudhari Sanika Nandkishor",
+    "prn": "2025016100665572",
+    "dob": "2007-08-30",
+    "name": "Sanika",
+    "mother_name": "Padmina",
+    "mobile_number": "9130464084",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Dahapute Vedika Shivshankar",
+    "prn": "2025016100779163",
+    "dob": "2007-05-24",
+    "name": "Vedika",
+    "mother_name": "Rekha",
+    "mobile_number": "9579365743",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Manwar Rupali Suresh",
+    "prn": "2025016100779205",
+    "dob": "2004-10-29",
+    "name": "Rupali",
+    "mother_name": "Radha",
+    "mobile_number": "7823032168",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Jadhav Yogita Ramdas",
+    "prn": "2025016100790957",
+    "dob": "2003-03-31",
+    "name": "Yogita",
+    "mother_name": "Kavita",
+    "mobile_number": "8080739067",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Surve Maniasha Arun",
+    "prn": "2025016100806065",
+    "dob": "2003-01-01",
+    "name": "Manisha",
+    "mother_name": "Jarita",
+    "mobile_number": "8329647472",
+    "course_code": "BCOM2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Panbhare Madhuri Gajanan",
+    "prn": "2025016100652842",
+    "dob": "2007-11-30",
+    "name": "Madhuri",
+    "mother_name": "Manda",
+    "mobile_number": "9834419960",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Amate Pooja Gajanan",
+    "prn": "2025016100652954",
+    "dob": "2006-08-30",
+    "name": "Pooja",
+    "mother_name": "Jamuna",
+    "mobile_number": "8766752456",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Kamble Tanisha Rajkumar",
+    "prn": "2025016100652962",
+    "dob": "2007-01-28",
+    "name": "Tanisha",
+    "mother_name": "Sunita",
+    "mobile_number": "8799812672",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Kamble Payal Bharat",
+    "prn": "2025016100653501",
+    "dob": "2005-11-18",
+    "name": "Payal",
+    "mother_name": "Jayashri",
+    "mobile_number": "7709997733",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Chandani Gajanan",
+    "prn": "2025016100653516",
+    "dob": "2007-05-02",
+    "name": "Chandani",
+    "mother_name": "Ranjana",
+    "mobile_number": "7972774957",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Mandalikar Tejaswini Dipak",
+    "prn": "2025016100653524",
+    "dob": "2008-01-15",
+    "name": "Tejaswini",
+    "mother_name": "Jyoti",
+    "mobile_number": "9325852492",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gulde Payal Rahul",
+    "prn": "2025016100653532",
+    "dob": "2007-08-19",
+    "name": "Payal",
+    "mother_name": "Varsha",
+    "mobile_number": "9511236707",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Jadhav Mohini Kishor",
+    "prn": "2025016100653547",
+    "dob": "2007-01-01",
+    "name": "Mohini",
+    "mother_name": "Dhrupatabai",
+    "mobile_number": "8459386287",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ghate Shrddha Hitesh",
+    "prn": "2025016100653555",
+    "dob": "2007-02-10",
+    "name": "Shraddha",
+    "mother_name": "Deepali",
+    "mobile_number": "7498841114",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Priti Sunil",
+    "prn": "2025016100653563",
+    "dob": "2007-05-12",
+    "name": "Priti",
+    "mother_name": "Sindhu",
+    "mobile_number": "9456846156",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Jadhao Roshani Baban",
+    "prn": "2025016100653571",
+    "dob": "2000-09-02",
+    "name": "Roshani",
+    "mother_name": "Vimal",
+    "mobile_number": "8208685800",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Amate Rajeshwari Raju",
+    "prn": "2025016100653586",
+    "dob": "2007-07-27",
+    "name": "Rajeshwari",
+    "mother_name": "Manjusha",
+    "mobile_number": "7972125940",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Waghmare Diksha Shivajiappa",
+    "prn": "2025016100653594",
+    "dob": "2007-07-28",
+    "name": "Diksha",
+    "mother_name": "Mangala",
+    "mobile_number": "9130964135",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Sawarkar Dnyanshwari Sanjay",
+    "prn": "2025016100653605",
+    "dob": "2007-10-01",
+    "name": "Dnyanshwari",
+    "mother_name": "Urmila",
+    "mobile_number": "9119523467",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ingle Tejasvini Satish",
+    "prn": "2025016100653613",
+    "dob": "2007-07-03",
+    "name": "Tejasvini",
+    "mother_name": "Sima",
+    "mobile_number": "8766767174",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ther Sanika Ganesh",
+    "prn": "2025016100653621",
+    "dob": "2004-05-31",
+    "name": "Sanika",
+    "mother_name": "Anita",
+    "mobile_number": "7485963254",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Pratiksha Indal",
+    "prn": "2025016100653876",
+    "dob": "2007-01-20",
+    "name": "Pratiksha",
+    "mother_name": "Bali",
+    "mobile_number": "8308898185",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pakhale Rupali Sandip",
+    "prn": "2025016100653884",
+    "dob": "2005-03-29",
+    "name": "Rupali",
+    "mother_name": "Vanmala",
+    "mobile_number": "7798536150",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Khadse Meena Keshav",
+    "prn": "2025016100653981",
+    "dob": "2000-01-01",
+    "name": "Meena",
+    "mother_name": "Anusaya",
+    "mobile_number": "7378732619",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Raut Samruddhi Keshav",
+    "prn": "2025016100653996",
+    "dob": "2004-08-16",
+    "name": "Samruddhi",
+    "mother_name": "Chanda",
+    "mobile_number": "7498938523",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Bhusare Maya Sudhakar",
+    "prn": "2025016100654005",
+    "dob": "2006-04-06",
+    "name": "Maya",
+    "mother_name": "Lila",
+    "mobile_number": "8975515516",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Asiya Parveen Sayyed Irfan",
+    "prn": "2025016100654013",
+    "dob": "2007-03-02",
+    "name": "Asiya Parveen",
+    "mother_name": "Sultana",
+    "mobile_number": "9970171110",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Mote Mayuri Rameshwar",
+    "prn": "2025016100654021",
+    "dob": "2007-04-10",
+    "name": "Mayuri",
+    "mother_name": "Sunita",
+    "mobile_number": "9834195882",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Jaiswal Priyanka Santosh",
+    "prn": "2025016100654036",
+    "dob": "2005-04-17",
+    "name": "Priyanka",
+    "mother_name": "Savita",
+    "mobile_number": "9579137606",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Kale Durga Ramhari",
+    "prn": "2025016100654044",
+    "dob": "2004-08-14",
+    "name": "Durga",
+    "mother_name": "Anusaya",
+    "mobile_number": "8767441406",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Vani Jigisha Govinda",
+    "prn": "2025016100654303",
+    "dob": "2007-05-11",
+    "name": "Jagisha",
+    "mother_name": "Nita",
+    "mobile_number": "7845127845",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Pawar Sonali Ashok",
+    "prn": "2025016100654311",
+    "dob": "2007-02-26",
+    "name": "Sonali",
+    "mother_name": "Ranjana",
+    "mobile_number": "8369321205",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Maigane Vrushali Kisan",
+    "prn": "2025016100654326",
+    "dob": "2007-06-15",
+    "name": "Vrushali",
+    "mother_name": "Ujwala",
+    "mobile_number": "9325848912",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Shinde Trushali Santosh",
+    "prn": "2025016100654334",
+    "dob": "2007-07-02",
+    "name": "Trushali",
+    "mother_name": "Ranjana",
+    "mobile_number": "9922053729",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Khandre Aarti Arun",
+    "prn": "2025016100654342",
+    "dob": "2007-05-19",
+    "name": "Aarti",
+    "mother_name": "Sunanda",
+    "mobile_number": "7474747474",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Mahalle Prachi Rajesh",
+    "prn": "2025016100654357",
+    "dob": "2005-09-14",
+    "name": "Prachi",
+    "mother_name": "Varsha",
+    "mobile_number": "9552090624",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Saloni Saroj",
+    "prn": "2025016100654365",
+    "dob": "2007-07-27",
+    "name": "Saloni",
+    "mother_name": "Savita",
+    "mobile_number": "7848747496",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Jadhao Gauri Santosh",
+    "prn": "2025016100654373",
+    "dob": "2007-07-18",
+    "name": "Gauri",
+    "mother_name": "Ganga",
+    "mobile_number": "8208542336",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Tonchar Archana Ashok",
+    "prn": "2025016100654381",
+    "dob": "1994-02-21",
+    "name": "Archana",
+    "mother_name": "Annapurna",
+    "mobile_number": "7758008047",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ambhore Puja Parashram",
+    "prn": "2025016100654582",
+    "dob": "2003-09-16",
+    "name": "Puja",
+    "mother_name": "Bebitai",
+    "mobile_number": "8766898508",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Savad Bhumika Mohan",
+    "prn": "2025016100654601",
+    "dob": "2007-07-14",
+    "name": "Bhumika",
+    "mother_name": "Savita",
+    "mobile_number": "8261856619",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Surtkar Mayuri Ashok",
+    "prn": "2025016100656171",
+    "dob": "2005-10-23",
+    "name": "Mayuri",
+    "mother_name": "Lata",
+    "mobile_number": "9518393642",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Shinde Nikita Santosh",
+    "prn": "2025016100656186",
+    "dob": "2007-02-02",
+    "name": "Nikita",
+    "mother_name": "Ranjana",
+    "mobile_number": "7798946161",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Gadkar Pooja Shantaram",
+    "prn": "2025016100656244",
+    "dob": "1995-01-23",
+    "name": "Pooja",
+    "mother_name": "Sunita",
+    "mobile_number": "7385712005",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Nitnaware Saniya Gopal",
+    "prn": "2025016100657263",
+    "dob": "2007-05-17",
+    "name": "Saniya",
+    "mother_name": "Manda",
+    "mobile_number": "9021546071",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ghangaon Laxmi Digambar",
+    "prn": "2025016100665467",
+    "dob": "1996-02-16",
+    "name": "Laxmi",
+    "mother_name": "Sakhubai",
+    "mobile_number": "7620481650",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ingale Sejal Kishor",
+    "prn": "2025016100665637",
+    "dob": "2006-10-05",
+    "name": "Sejal",
+    "mother_name": "Sarika",
+    "mobile_number": "8805723125",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Padaghan Kavita Babarao",
+    "prn": "2025016100665645",
+    "dob": "1991-01-01",
+    "name": "Kavita",
+    "mother_name": "Aruna",
+    "mobile_number": "9359511580",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Lahamage Khushi Raju",
+    "prn": "2025016100670445",
+    "dob": "2007-08-22",
+    "name": "Khushi",
+    "mother_name": "Ambika",
+    "mobile_number": "7485968574",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Barge Puja Vishnu",
+    "prn": "2025016100673625",
+    "dob": "2007-04-16",
+    "name": "Puja",
+    "mother_name": "Varsha",
+    "mobile_number": "9625365214",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Shubhangi Ashok",
+    "prn": "2025016100777117",
+    "dob": "2002-04-14",
+    "name": "Shubhangi",
+    "mother_name": "Vandana",
+    "mobile_number": "9370836618",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Katake Sejal Ravindra",
+    "prn": "2025016100777125",
+    "dob": "2007-05-15",
+    "name": "Sejal",
+    "mother_name": "Kalpana",
+    "mobile_number": "9226501198",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Wankhade Mayuri Namdev",
+    "prn": "2025016100777133",
+    "dob": "2007-03-02",
+    "name": "Mayuri",
+    "mother_name": "Archana",
+    "mobile_number": "9226589122",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Sneha Dnyaneshwar",
+    "prn": "2025016100777141",
+    "dob": "2009-03-14",
+    "name": "Sneha",
+    "mother_name": "Usha",
+    "mobile_number": "7666980323",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ade Diksha Rundan",
+    "prn": "2025016100777156",
+    "dob": "2003-03-08",
+    "name": "Diksha",
+    "mother_name": "Ranjana",
+    "mobile_number": "7845122154",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Basole Ashwini Sanjay",
+    "prn": "2025016100777164",
+    "dob": "2007-05-25",
+    "name": "Ashwini",
+    "mother_name": "Pushpa",
+    "mobile_number": "8764751835",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Lahamage Sneha Ganesh",
+    "prn": "2025016100777172",
+    "dob": "2007-03-08",
+    "name": "Sneha",
+    "mother_name": "Jyoti",
+    "mobile_number": "7387808850",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Suradkar Sapana Satish",
+    "prn": "2025016100777187",
+    "dob": "2005-06-04",
+    "name": "Sapana",
+    "mother_name": "Mangala",
+    "mobile_number": "9322184576",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Ankita Baldev",
+    "prn": "2025016100778933",
+    "dob": "2005-11-25",
+    "name": "Ankita",
+    "mother_name": "Sangita",
+    "mobile_number": "7499550443",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Ashwina Vinod",
+    "prn": "2025016100779395",
+    "dob": "2003-03-11",
+    "name": "Ashwina",
+    "mother_name": "Usha",
+    "mobile_number": "9021705210",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Rathod Pooja Sanjay",
+    "prn": "2025016100779774",
+    "dob": "2005-07-10",
+    "name": "Pooja",
+    "mother_name": "Neeta",
+    "mobile_number": "8208623225",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Manwar Pradnya Devanand",
+    "prn": "2025016100779782",
+    "dob": "2007-04-25",
+    "name": "Pradnya",
+    "mother_name": "Sangita",
+    "mobile_number": "9130090684",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Chavhan Diksha Baldeo",
+    "prn": "2025016100779797",
+    "dob": "2007-01-19",
+    "name": "Diksha",
+    "mother_name": "Kavita",
+    "mobile_number": "9130939469",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Khade Gayatri Santosh",
+    "prn": "2025016100789397",
+    "dob": "2007-05-17",
+    "name": "Gayatri",
+    "mother_name": "Anita",
+    "mobile_number": "9604986535",
+    "course_code": "BA2025",
+    "college_code": "661"
+  },
+  {
+    "student_name": "Ambade Ishwari Ganesh",
+    "prn": "2025016100790942",
+    "dob": "2007-12-06",
+    "name": "Ishwari",
+    "mother_name": "Sharada",
+    "mobile_number": "9623740450",
+    "course_code": "BA2025",
+    "college_code": "661"
+  }
+]

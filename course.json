@@ -1,0 +1,154 @@
+{
+    "courseSubjects": {
+        "BA": [
+            {
+                "code": "10441111",
+                "name": "Film Music Level 1 (BA Music)",
+                "date": "10-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            },
+            {
+                "code": "10710811",
+                "name": "Local History (History)",
+                "date": "11-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            },
+            {
+                "code": "10810112",
+                "name": "English Language and Literature - I (for Non-English medium)",
+                "date": "12-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            },
+            {
+                "code": "11051111",
+                "name": "Inception of Indian Knowledge System",
+                "date": "14-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            },
+            {
+                "code": "10952111",
+                "name": "Introduction to Indian Constitution",
+                "date": "15-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            }
+        ],
+        "BSC": [
+            {
+                "code": "10420114",
+                "name": "Fundamentals of Accounting - I (B. Com)",
+                "date": "10-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            },
+            {
+                "code": "10732301",
+                "name": "Basic Course in Excel (Math)",
+                "date": "11-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            },
+            {
+                "code": "10810111",
+                "name": "English For Academic Writing - Paper I",
+                "date": "12-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            },
+            {
+                "code": "11051111",
+                "name": "Inception of Indian Knowledge System",
+                "date": "14-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            },
+            {
+                "code": "10952111",
+                "name": "Introduction to Indian Constitution",
+                "date": "15-12-2025",
+                "time": "11:00 AM To 01:00 PM"
+            }
+        ],
+        "BCOM": [
+            {
+                "code": "10120211",
+                "name": "Basic of Accounting Paper - I (FAA)",
+                "date": "10-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "10710811",
+                "name": "Local History (History)",
+                "date": "11-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "10820112",
+                "name": "English Language and Literature - I",
+                "date": "12-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "11051111",
+                "name": "Inception of Indian Knowledge System",
+                "date": "14-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "10952111",
+                "name": "Introduction to Indian Constitution",
+                "date": "15-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "10410812",
+                "name": "Indian Tourism: Principal and Practices (History)",
+                "date": "16-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            }
+        ],
+        "BAFD": [
+            {
+                "code": "10144811",
+                "name": "Elements & Principles of Design (TH/PR)",
+                "date": "10-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "10748211",
+                "name": "Basic Design and Sketching (PR) (BAFD)",
+                "date": "11-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "10820112",
+                "name": "English Language and Literature - I",
+                "date": "12-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "11051111",
+                "name": "Inception of Indian Knowledge System",
+                "date": "14-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "10952111",
+                "name": "Introduction to Indian Constitution",
+                "date": "15-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            },
+            {
+                "code": "10410812",
+                "name": "Indian Tourism: Principles and Practices (History)",
+                "date": "16-12-2025",
+                "time": "03:00 PM To 05:00 PM"
+            }
+        ]
+    },
+    "courseTitles": {
+        "BA": "Bachelor of Arts (NEP) - First Year Semester I",
+        "BSC": "Bachelor of Science - First Year Semester I",
+        "BCOM": "Bachelor of Commerce - First Year Semester I",
+        "BAFD": "Bachelor of Arts in Fashion Design - First Year Semester I"
+    },
+    "collegeMap": {
+        "661": "Shri. Janrajoji Kale Mahila Mahavidyalay, Sonkhas/Shahapur, Tq. Mangrulpir Dist. Washim",
+        "513": "Advika Sawalkar Mahila Arts, Science and Commerce College, Ansing, Tq. Dist. Washim"
+    }
+}
